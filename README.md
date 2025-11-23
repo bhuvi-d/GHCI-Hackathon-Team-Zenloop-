@@ -1,7 +1,7 @@
 # Team Zenloop — GHCI Hackathon  
 ### **AI-Powered Financial Transaction Categorization**
 
-## Note: The GHCI.iypnb file contains the entire codebase
+### ✨Note: The GHCI.iypnb file contains the entire codebase
 
 We, **Team Zenloop**, are building a smart, hybrid **BERT + LLM** system that cleans up noisy bank transaction text and turns it into clear, meaningful categories.
 
